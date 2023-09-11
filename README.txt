@@ -1,6 +1,6 @@
 Landed by HTML5 UP
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Free for personal and commercial use under the CCA 3.0 license (juniorMinervino)
 
 
 A dark, slick, modern, responsive, adjective-drenched design built around an extremely
